@@ -3,6 +3,7 @@
     {
       "firstName": "Daniele",
       "lastName": "Bartoli",
+      "username": "dani",
       "instagram": "theunrealdani",
 
       "description": "",
@@ -16,6 +17,7 @@
     {
       "firstName": "Manuel",
       "lastName": "Caretti",
+      "username": "il care",
       "instagram": "ilcare1997",
 
       "description": "Portiere per passione e pokerista di professione",
@@ -29,6 +31,7 @@
     {
       "firstName": "Michael",
       "lastName": "Martelli",
+      "username": "mike alto",
       "instagram": "mike.martelli92",
 
       "description": "",
@@ -42,6 +45,7 @@
     {
       "firstName": "Gabriele",
       "lastName": "Mazzeo",
+      "username": "gabri",
       "instagram": "gabriele__mazzeo",
 
       "description": "",
@@ -55,6 +59,7 @@
     {
       "firstName": "Jacopo",
       "lastName": "Serafino",
+      "username": "sera",
       "instagram": "jacopo_serafino",
 
       "description": "",
@@ -68,6 +73,7 @@
     {
       "firstName": "Alessio",
       "lastName": "Pellegrini",
+      "username": "prez",
       "instagram": "alessio_pellegrini9",
 
       "description": "",
@@ -81,6 +87,7 @@
     {
       "firstName": "Francesco",
       "lastName": "Todino",
+      "username": "tod",
       "instagram": "francescotodino",
 
       "description": "",
@@ -91,6 +98,7 @@
     {
       "firstName": "Jonathan",
       "lastName": "Viola",
+      "username": "jonny",
       "instagram": "jonathan.purple",
 
       "description": "",
