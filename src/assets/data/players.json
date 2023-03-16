@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "firstName": "Daniele",
+      "lastName": "Bartoli",
+      "instagram": "theunrealdani",
+
+      "description": "",
+      "img": "assets/img/theunrealdani.jpg",
+
+      "results": [
+        { "date": "2023-03-01T21:00:00.000Z", "rank": 1 },
+        { "date": "2023-03-14T21:00:00.000Z", "rank": 2 }
+      ]
+    },
+    {
+      "firstName": "Manuel",
+      "lastName": "Caretti",
+      "instagram": "ilcare1997",
+
+      "description": "Portiere per passione e pokerista di professione",
+      "img": "assets/img/ilcare1997.jpg",
+
+      "results": [
+        { "date": "2023-03-01T21:00:00.000Z", "rank": 3 },
+        { "date": "2023-03-14T21:00:00.000Z", "rank": 1 }
+      ]
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Martelli",
+      "instagram": "mike.martelli92",
+
+      "description": "",
+      "img": "assets/img/mike.martelli92.jpg",
+
+      "results": [
+        { "date": "2023-03-01T21:00:00.000Z", "rank": 4 },
+        { "date": "2023-03-14T21:00:00.000Z", "rank": 4 }
+      ]
+    },
+    {
+      "firstName": "Gabriele",
+      "lastName": "Mazzeo",
+      "instagram": "gabriele__mazzeo",
+
+      "description": "",
+      "img": "assets/img/gabriele__mazzeo.jpg",
+
+      "results": [
+        { "date": "2023-03-01T21:00:00.000Z", "rank": 5 },
+        { "date": "2023-03-14T21:00:00.000Z", "rank": 5 }
+      ]
+    },
+    {
+      "firstName": "Jacopo",
+      "lastName": "Serafino",
+      "instagram": "jacopo_serafino",
+
+      "description": "",
+      "img": "assets/img/jacopo_serafino.jpg",
+
+      "results": [
+        { "date": "2023-03-01T21:00:00.000Z", "rank": 6 },
+        { "date": "2023-03-14T21:00:00.000Z", "rank": 6 }
+      ]
+    },
+    {
+      "firstName": "Alessio",
+      "lastName": "Pellegrini",
+      "instagram": "alessio_pellegrini9",
+
+      "description": "",
+      "img": "assets/img/alessio_pellegrini9.jpg",
+
+      "results": [
+        { "date": "2023-03-01T21:00:00.000Z", "rank": 7 },
+        { "date": "2023-03-14T21:00:00.000Z", "rank": 7 }
+      ]
+    },
+    {
+      "firstName": "Francesco",
+      "lastName": "Todino",
+      "instagram": "francescotodino",
+
+      "description": "",
+      "img": "assets/img/francescotodino.jpg",
+
+      "results": [
+        { "date": "2023-03-01T21:00:00.000Z", "rank": 8 },
+        { "date": "2023-03-14T21:00:00.000Z", "rank": 8 }
+      ]
+    },
+    {
+      "firstName": "Jonathan",
+      "lastName": "Viola",
+      "instagram": "jonathan.purple",
+
+      "description": "",
+      "img": "assets/img/jonathan.purple.jpg",
+
+      "results": [
+        { "date": "2023-03-01T21:00:00.000Z", "rank": 9 },
+        { "date": "2023-03-14T21:00:00.000Z", "rank": 9 }
+      ]
+    }
+  ]
+}
