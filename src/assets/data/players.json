@@ -10,7 +10,7 @@
 
       "results": [
         { "date": "2023-03-01T21:00:00.000Z", "rank": 1 },
-        { "date": "2023-03-14T21:00:00.000Z", "rank": 2 }
+        { "date": "2023-03-14T21:00:00.000Z", "rank": 4 }
       ]
     },
     {
@@ -22,8 +22,8 @@
       "img": "assets/img/ilcare1997.jpg",
 
       "results": [
-        { "date": "2023-03-01T21:00:00.000Z", "rank": 3 },
-        { "date": "2023-03-14T21:00:00.000Z", "rank": 1 }
+        { "date": "2023-03-01T21:00:00.000Z", "rank": 5 },
+        { "date": "2023-03-14T21:00:00.000Z", "rank": 3 }
       ]
     },
     {
@@ -35,8 +35,8 @@
       "img": "assets/img/mike.martelli92.jpg",
 
       "results": [
-        { "date": "2023-03-01T21:00:00.000Z", "rank": 4 },
-        { "date": "2023-03-14T21:00:00.000Z", "rank": 4 }
+        { "date": "2023-03-01T21:00:00.000Z", "rank": 6 },
+        { "date": "2023-03-14T21:00:00.000Z", "rank": 6 }
       ]
     },
     {
@@ -48,8 +48,8 @@
       "img": "assets/img/gabriele__mazzeo.jpg",
 
       "results": [
-        { "date": "2023-03-01T21:00:00.000Z", "rank": 5 },
-        { "date": "2023-03-14T21:00:00.000Z", "rank": 5 }
+        { "date": "2023-03-01T21:00:00.000Z", "rank": 4 },
+        { "date": "2023-03-14T21:00:00.000Z", "rank": 7 }
       ]
     },
     {
@@ -61,8 +61,8 @@
       "img": "assets/img/jacopo_serafino.jpg",
 
       "results": [
-        { "date": "2023-03-01T21:00:00.000Z", "rank": 6 },
-        { "date": "2023-03-14T21:00:00.000Z", "rank": 6 }
+        { "date": "2023-03-01T21:00:00.000Z", "rank": 7 },
+        { "date": "2023-03-14T21:00:00.000Z", "rank": 1 }
       ]
     },
     {
@@ -74,8 +74,8 @@
       "img": "assets/img/alessio_pellegrini9.jpg",
 
       "results": [
-        { "date": "2023-03-01T21:00:00.000Z", "rank": 7 },
-        { "date": "2023-03-14T21:00:00.000Z", "rank": 7 }
+        { "date": "2023-03-01T21:00:00.000Z", "rank": 3 },
+        { "date": "2023-03-14T21:00:00.000Z", "rank": 5 }
       ]
     },
     {
@@ -86,10 +86,7 @@
       "description": "",
       "img": "assets/img/francescotodino.jpg",
 
-      "results": [
-        { "date": "2023-03-01T21:00:00.000Z", "rank": 8 },
-        { "date": "2023-03-14T21:00:00.000Z", "rank": 8 }
-      ]
+      "results": [{ "date": "2023-03-01T21:00:00.000Z", "rank": 2 }]
     },
     {
       "firstName": "Jonathan",
@@ -99,10 +96,7 @@
       "description": "",
       "img": "assets/img/jonathan.purple.jpg",
 
-      "results": [
-        { "date": "2023-03-01T21:00:00.000Z", "rank": 9 },
-        { "date": "2023-03-14T21:00:00.000Z", "rank": 9 }
-      ]
+      "results": [{ "date": "2023-03-14T21:00:00.000Z", "rank": 2 }]
     }
   ]
 }
